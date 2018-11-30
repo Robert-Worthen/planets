@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-is not a dog but a planet
-=======
-Is not a dog but a planet....
->>>>>>> 90f95e210bf41d3b5a227273a23ad161903b4355
+is not a dog but a planet...
+I like cats better anyway
